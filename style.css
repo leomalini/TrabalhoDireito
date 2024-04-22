@@ -20,38 +20,6 @@ body {
   z-index: 9997;
 }
 
-#header .profile img {
-  margin: 15px auto;
-  display: flex;
-  width: 130px;
-  border: 8px solid #2c2f3f;
-  border-radius: 50%;
-}
-
-#header .profile h1 {
-  font-size: 24px;
-  margin: 0;
-  padding: 0;
-  font-weight: 600;
-  text-align: center;
-  color: #000000;
-}
-
-#header .profile .social-links a {
-  font-size: 1rem;
-  background: #212431;
-  color: #fff;
-  padding: 0.6rem;
-  margin-right: 1rem;
-  border-radius: 50%;
-  transition: 0.3s;
-  text-decoration: none;
-}
-
-#header .profile .social-links a:hover {
-  background: #888d5b;
-}
-
 .nav-menu {
   padding: 1.5em;
 }
